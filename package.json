@@ -1,0 +1,12 @@
+{
+	"name": "on-maker",
+	"version": "1.0.0",
+	"description": "Create DOM style on[event] bindings on an object that reach out to an underlying Node-style [EventEmitter](https://nodejs.org/docs/latest/api/events.html).",
+	"main": "on-maker.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["dom", "dom-events", "dom events"],
+	"author": "rektide de la faye",
+	"license": "X11"
+}
